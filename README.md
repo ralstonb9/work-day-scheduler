@@ -6,6 +6,7 @@ In the week 5 challenge we were given the CSS and HTML for a work day scheduler 
 
 ## Project Link
 
+https://ralstonb9.github.io/work-day-scheduler/
 
 ## Screenshot
 
