@@ -9,6 +9,7 @@ In the week 5 challenge we were given the CSS and HTML for a work day scheduler 
 
 ## Screenshot
 
+![9AM-5PM Scheduler](./assets/images/work-day-scheduler.png)
 
 ## Usage
 
